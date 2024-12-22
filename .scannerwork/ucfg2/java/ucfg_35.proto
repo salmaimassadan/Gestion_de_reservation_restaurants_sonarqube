@@ -1,0 +1,17 @@
+
+Icom.example.JEE.services.TableService#getTableById(I)Ljava/util/Optional;f
+\C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/TableService.java (("1*Ç
+1 (£
+ 
+ (2
+%0,com.example.JEE.repositories.TableRepository"__id*Z
+
+__unknown_file (>*<'
+%com.example.JEE.services.TableService"
+tableRepository"
+ (,
+"": 
+
+__unknown_file (
+""B)'
+%com.example.JEE.services.TableServiceH

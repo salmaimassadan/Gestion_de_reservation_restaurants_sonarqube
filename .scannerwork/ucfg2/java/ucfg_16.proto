@@ -1,0 +1,16 @@
+
+wcom.example.JEE.services.ReviewService#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;g
+]C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/ReviewService.java ("1*Ê
+1 (¦
+£
+ (3
+%0-com.example.JEE.repositories.ReviewRepository"__id*\
+
+__unknown_file (@*>(
+&com.example.JEE.services.ReviewService"
+reviewRepository"
+ (-
+"":5
+ (,)
+reviewcom.example.JEE.entities.ReviewB*(
+&com.example.JEE.services.ReviewServiceH

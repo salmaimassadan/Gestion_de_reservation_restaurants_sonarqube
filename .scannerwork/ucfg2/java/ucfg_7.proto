@@ -1,0 +1,62 @@
+
+ucom.example.JEE.controllers.UserController#createUser(Lcom/example/JEE/entities/User;)Lcom/example/JEE/entities/User;k
+aC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/UserController.java ("startingBlock*Ó
+startingBlock (2‘
+Ž
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*C
+
+__unknown_file ('
+%
+usercom.example.JEE.entities.User‘
+Ž
+ ('
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*C
+
+__unknown_file ('
+%
+usercom.example.JEE.entities.UserŠ
+‡
+- (1%
+usercom.example.JEE.entities.User"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*Á
+1 (œ
+™
+ (*
+%0$com.example.JEE.services.UserService"__id*[
+
+__unknown_file (?*=,
+*com.example.JEE.controllers.UserController"
+userServiceßÜ
+ (+#
+%1com.example.JEE.entities.User"ocom.example.JEE.services.UserService#createUser(Lcom/example/JEE/entities/User;)Lcom/example/JEE/entities/User;*H
+
+__unknown_file (,
+*
+%0$com.example.JEE.services.UserService*C
+
+__unknown_file ('
+%
+usercom.example.JEE.entities.User2+createUser(Lcom/example/JEE/entities/User;)"1
+ (,%
+#
+%1com.example.JEE.entities.User:1
+ (1%
+usercom.example.JEE.entities.UserB.,
+*com.example.JEE.controllers.UserControllerH

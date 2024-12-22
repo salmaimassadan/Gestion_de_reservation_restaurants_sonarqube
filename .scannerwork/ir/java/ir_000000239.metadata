@@ -1,0 +1,5 @@
+com.example.JEE.controllers.UserController#getAllUsers()Ljava/util/List;
+false
+0b50eb90e6babd3a2fff231a117addf3
+==
+getAllUsers com.example.JEE.services.UserService#getAllUsers()Ljava/util/List;

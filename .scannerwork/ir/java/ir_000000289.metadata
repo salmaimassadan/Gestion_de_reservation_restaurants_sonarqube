@@ -1,0 +1,5 @@
+com.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;
+false
+2ed9b49532679f00a5ad73667a1e93b0
+==
+getAllReviews com.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;

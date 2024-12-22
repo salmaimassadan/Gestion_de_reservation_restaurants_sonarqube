@@ -1,0 +1,14 @@
+
+Fcom.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;g
+]C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/ReviewService.java (%"1*Ê
+1 (¦
+£
+ (3
+%0-com.example.JEE.repositories.ReviewRepository"__id*\
+
+__unknown_file (@*>(
+&com.example.JEE.services.ReviewService"
+reviewRepository"
+ (*
+""B*(
+&com.example.JEE.services.ReviewServiceH

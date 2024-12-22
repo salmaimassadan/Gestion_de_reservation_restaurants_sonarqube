@@ -1,0 +1,6 @@
+com.example.JEE.controllers.ReviewController#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;
+false
+9e85712c799da918bce6a294240bda5f
+==
+!unknownMethod! !unknownMethod!
+createReview com.example.JEE.services.ReviewService#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;

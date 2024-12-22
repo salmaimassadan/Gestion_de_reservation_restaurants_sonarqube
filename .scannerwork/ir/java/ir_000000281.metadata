@@ -1,0 +1,5 @@
+com.example.JEE.controllers.TableController#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;
+false
+d67157080b2f212ffca525c59f30de84
+==
+createTable com.example.JEE.services.TableService#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;

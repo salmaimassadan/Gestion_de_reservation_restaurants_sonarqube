@@ -1,0 +1,62 @@
+
+{com.example.JEE.controllers.TableController#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;l
+bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/TableController.java ("startingBlock*ß
+startingBlock (9•
+’
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*G
+
+__unknown_file (+
+)
+tablescom.example.JEE.entities.Tables•
+’
+ (*
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*G
+
+__unknown_file (+
+)
+tablescom.example.JEE.entities.TablesŽ
+‹
+2 (8)
+tablescom.example.JEE.entities.Tables"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*Ö
+1 (Ÿ
+œ
+ (+
+%0%com.example.JEE.services.TableService"__id*]
+
+__unknown_file (A*?-
++com.example.JEE.controllers.TableController"
+tableServiceïì
+ (/%
+%1com.example.JEE.entities.Tables"ucom.example.JEE.services.TableService#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;*I
+
+__unknown_file (-
++
+%0%com.example.JEE.services.TableService*G
+
+__unknown_file (+
+)
+tablescom.example.JEE.entities.Tables2.createTable(Lcom/example/JEE/entities/Tables;)"3
+ (0'
+%
+%1com.example.JEE.entities.Tables:5
+ (8)
+tablescom.example.JEE.entities.TablesB/-
++com.example.JEE.controllers.TableControllerH

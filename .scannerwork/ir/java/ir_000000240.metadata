@@ -1,0 +1,5 @@
+com.example.JEE.controllers.UserController#deleteUser(I)V
+false
+383af2e8ba567955f67714576cf1a237
+==
+deleteUser com.example.JEE.services.UserService#deleteUser(I)V

@@ -1,0 +1,21 @@
+
+Vcom.example.JEE.controllers.ReservationController#getAllReservations()Ljava/util/List;r
+hC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/ReservationController.java( ((/"1*Ä
+1) )(!±
+®
+) )(!1
+%0+com.example.JEE.services.ReservationService"__id*i
+
+__unknown_file (M*K3
+1com.example.JEE.controllers.ReservationController"
+reservationServiceÜÙ
+) )(6
+%1java.util.List"Pcom.example.JEE.services.ReservationService#getAllReservations()Ljava/util/List;*O
+
+__unknown_file (3
+1
+%0+com.example.JEE.services.ReservationService2getAllReservations()""
+) )(7
+
+%1java.util.ListB53
+1com.example.JEE.controllers.ReservationControllerH

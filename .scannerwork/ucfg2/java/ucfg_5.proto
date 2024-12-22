@@ -1,0 +1,14 @@
+
+Bcom.example.JEE.services.UserService#getAllUsers()Ljava/util/List;e
+[C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/UserService.java (!"1*ƒ
+1 (†
+ù
+ (1
+%0+com.example.JEE.repositories.UserRepository"__id*X
+
+__unknown_file (<*:&
+$com.example.JEE.services.UserService"
+userRepository"
+ ((
+""B(&
+$com.example.JEE.services.UserServiceH

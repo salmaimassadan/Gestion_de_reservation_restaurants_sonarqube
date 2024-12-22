@@ -1,0 +1,14 @@
+
+Dcom.example.JEE.services.TableService#getAllTables()Ljava/util/List;f
+\C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/TableService.java ($"1*Ç
+1 (£
+ 
+ (2
+%0,com.example.JEE.repositories.TableRepository"__id*Z
+
+__unknown_file (>*<'
+%com.example.JEE.services.TableService"
+tableRepository"
+ ()
+""B)'
+%com.example.JEE.services.TableServiceH

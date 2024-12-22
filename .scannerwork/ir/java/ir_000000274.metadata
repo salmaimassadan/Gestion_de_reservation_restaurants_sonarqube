@@ -1,0 +1,8 @@
+com.example.JEE.controllers.RestaurantController#createRestaurant(Ljava/lang/String;Ljava/lang/String;LMultipartFile;)Lcom/example/JEE/entities/Restaurant;
+false
+45d3b75b767b6dfb3d4d25e5c97f94bd
+com.example.JEE.entities.Restaurant#instance-init#
+==
+!unknownMethod! !unknownMethod!
+createRestaurant com.example.JEE.services.RestaurantService#createRestaurant(Lcom/example/JEE/entities/Restaurant;)Lcom/example/JEE/entities/Restaurant;
+uploadImageToFileSystem com.example.JEE.services.StorageService#uploadImageToFileSystem(LMultipartFile;)Ljava/lang/String;

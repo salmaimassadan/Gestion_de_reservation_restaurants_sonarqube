@@ -1,0 +1,21 @@
+
+Hcom.example.JEE.controllers.UserController#getAllUsers()Ljava/util/List;k
+aC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/UserController.java (!"1*“
+1 (œ
+™
+ (*
+%0$com.example.JEE.services.UserService"__id*[
+
+__unknown_file (?*=,
+*com.example.JEE.controllers.UserController"
+userServiceÀ½
+ ((
+%1java.util.List"Bcom.example.JEE.services.UserService#getAllUsers()Ljava/util/List;*H
+
+__unknown_file (,
+*
+%0$com.example.JEE.services.UserService2getAllUsers()""
+ ()
+
+%1java.util.ListB.,
+*com.example.JEE.controllers.UserControllerH

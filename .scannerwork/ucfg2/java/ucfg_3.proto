@@ -1,0 +1,16 @@
+
+ocom.example.JEE.services.UserService#createUser(Lcom/example/JEE/entities/User;)Lcom/example/JEE/entities/User;e
+[C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/UserService.java ("1*ƒ
+1 (†
+ù
+ (1
+%0+com.example.JEE.repositories.UserRepository"__id*X
+
+__unknown_file (<*:&
+$com.example.JEE.services.UserService"
+userRepository"
+ ()
+"":1
+ ($%
+usercom.example.JEE.entities.UserB(&
+$com.example.JEE.services.UserServiceH

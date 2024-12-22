@@ -1,0 +1,16 @@
+
+ucom.example.JEE.services.TableService#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;f
+\C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/TableService.java ("1*Ç
+1 (£
+ 
+ (2
+%0,com.example.JEE.repositories.TableRepository"__id*Z
+
+__unknown_file (>*<'
+%com.example.JEE.services.TableService"
+tableRepository"
+ (,
+"":5
+ (+)
+tablescom.example.JEE.entities.TablesB)'
+%com.example.JEE.services.TableServiceH

@@ -1,0 +1,5 @@
+com.example.JEE.controllers.ReservationController#getAllReservations()Ljava/util/List;
+false
+ba137107a2a13aca8e61b959421ce672
+==
+getAllReservations com.example.JEE.services.ReservationService#getAllReservations()Ljava/util/List;

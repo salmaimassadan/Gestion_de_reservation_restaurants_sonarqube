@@ -1,0 +1,21 @@
+
+Lcom.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;m
+cC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/ReviewController.java' '(%"1*¡
+1( ((¢
+Ÿ
+( ((,
+%0&com.example.JEE.services.ReviewService"__id*_
+
+__unknown_file (C*A.
+,com.example.JEE.controllers.ReviewController"
+reviewServiceÈÅ
+( ((,
+%1java.util.List"Fcom.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;*J
+
+__unknown_file (.
+,
+%0&com.example.JEE.services.ReviewService2getAllReviews()""
+( ((-
+
+%1java.util.ListB0.
+,com.example.JEE.controllers.ReviewControllerH

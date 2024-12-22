@@ -1,0 +1,21 @@
+
+Jcom.example.JEE.controllers.TableController#getAllTables()Ljava/util/List;l
+bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/TableController.java ($"1*š
+1 (Ÿ
+œ
+ (+
+%0%com.example.JEE.services.TableService"__id*]
+
+__unknown_file (A*?-
++com.example.JEE.controllers.TableController"
+tableServiceÄÁ
+ (*
+%1java.util.List"Dcom.example.JEE.services.TableService#getAllTables()Ljava/util/List;*I
+
+__unknown_file (-
++
+%0%com.example.JEE.services.TableService2getAllTables()""
+ (+
+
+%1java.util.ListB/-
++com.example.JEE.controllers.TableControllerH

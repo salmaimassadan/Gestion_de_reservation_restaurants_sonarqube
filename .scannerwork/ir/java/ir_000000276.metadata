@@ -1,0 +1,5 @@
+com.example.JEE.controllers.RestaurantController#getAllRestaurants()Ljava/util/List;
+false
+e75452efb538440c15f7062389ed89db
+==
+getAllRestaurants com.example.JEE.services.RestaurantService#getAllRestaurants()Ljava/util/List;

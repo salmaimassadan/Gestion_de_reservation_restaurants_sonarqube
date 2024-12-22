@@ -1,0 +1,5 @@
+com.example.JEE.controllers.UserController#createUser(Lcom/example/JEE/entities/User;)Lcom/example/JEE/entities/User;
+false
+156953441f494d4788a6a083f9280ffb
+==
+createUser com.example.JEE.services.UserService#createUser(Lcom/example/JEE/entities/User;)Lcom/example/JEE/entities/User;
