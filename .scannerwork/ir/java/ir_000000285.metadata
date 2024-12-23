@@ -1,3 +1,5 @@
-com.example.JEE.controllers.ReviewController#instance-init#
+com.example.JEE.controllers.TableController#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;
 false
-e2afbd8b627ea8eb547594ee1c298d39
+d67157080b2f212ffca525c59f30de84
+==
+createTable com.example.JEE.services.TableService#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;

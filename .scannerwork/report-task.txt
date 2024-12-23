@@ -3,5 +3,5 @@ projectKey=mgmnt-qualite_jee
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.58741
 dashboardUrl=https://sonarcloud.io/dashboard?id=mgmnt-qualite_jee
-ceTaskId=AZPhaQlwm2pIx8C1xmRT
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZPhaQlwm2pIx8C1xmRT
+ceTaskId=AZPzSTiTgDr3kuHuoi7v
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZPzSTiTgDr3kuHuoi7v

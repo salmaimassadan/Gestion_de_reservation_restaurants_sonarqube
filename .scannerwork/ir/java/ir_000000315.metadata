@@ -1,3 +1,5 @@
-com.example.JEE.controllers.ImageController#instance-init#
+com.example.JEE.services.RestaurantService#createRestaurant(Lcom/example/JEE/entities/Restaurant;)Lcom/example/JEE/entities/Restaurant;
 false
-3c9ddfc96b5c46d430b7b6c47c442a14
+8b901fabff9d07a4220375a61ffd533b
+==
+!unknownMethod! !unknownMethod!

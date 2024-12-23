@@ -22,5 +22,19 @@ public class Review {
     private int rating;
     private String comments;
 
+    public void setId(int i) {
+    }
+
+    public void setContent(String s) {
+    }
+
+    public int getId() {
+        return reviewID;
+    }
+
+    public String getContent() {
+        return comments;
+    }
+
     // Getters and setters
 }

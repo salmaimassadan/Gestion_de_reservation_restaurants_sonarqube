@@ -1,3 +1,3 @@
-com.example.JEE.corsconfig.CorsConfig#<init>()V
+com.example.JEE.entities.Restaurant#getAddress()Ljava/lang/String;
 false
-bd2abbc5de2612a9d231f5936c92cfe5
+070cc44008b7c64b0851aac575109c71

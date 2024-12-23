@@ -1,5 +1,3 @@
-com.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;
+com.example.JEE.controllers.ReviewController#instance-init#
 false
-2ed9b49532679f00a5ad73667a1e93b0
-==
-getAllReviews com.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;
+e2afbd8b627ea8eb547594ee1c298d39

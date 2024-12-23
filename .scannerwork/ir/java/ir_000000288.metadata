@@ -1,8 +1,5 @@
-com.example.JEE.controllers.ReviewController#getReviewById(I)LResponseEntity;
+com.example.JEE.controllers.TableController#deleteTable(I)V
 false
-c7ad4e93e2e61caaf53b90b4eda5a96f
-java.util.Optional#get()Ljava/lang/Object;
-java.util.Optional#isPresent()Z
+a2563935a60b242d13bb918d120be903
 ==
-!unknownMethod! !unknownMethod!
-getReviewById com.example.JEE.services.ReviewService#getReviewById(I)Ljava/util/Optional;
+deleteTable com.example.JEE.services.TableService#deleteTable(I)V

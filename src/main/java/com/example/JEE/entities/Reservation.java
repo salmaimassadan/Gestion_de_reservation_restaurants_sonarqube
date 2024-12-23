@@ -28,5 +28,14 @@ public class Reservation {
     public Reservation(int i, String mail, Status status) {
     }
 
-    // Supprimer les méthodes inutiles ou redondantes comme setId, setName, getName, getId.
+    public Reservation(String johnDoe, LocalDateTime now) {
+    }
+
+    public void setDate(LocalDateTime now) {
+    }
+
+    public void setCustomerName(String johnDoe) {
+    }
+
+
 }

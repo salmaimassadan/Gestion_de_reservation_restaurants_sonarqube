@@ -1,5 +1,5 @@
-com.example.JEE.services.ReservationService#getReservationById(I)Ljava/util/Optional;
+com.example.JEE.services.TableService#getAllTables()Ljava/util/List;
 false
-46398777f93c81215c74e23a23c8277c
+8bf374678cdd97c421e510e536eebdeb
 ==
 !unknownMethod! !unknownMethod!

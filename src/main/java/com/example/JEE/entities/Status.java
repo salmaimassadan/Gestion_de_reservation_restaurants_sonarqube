@@ -1,5 +1,5 @@
 package com.example.JEE.entities;
 
 public enum Status {
-    RESERVED,PENDING, CONFIRMED, FREE
+    RESERVED,PENDING, CONFIRMED, CANCELLED, FREE
 }

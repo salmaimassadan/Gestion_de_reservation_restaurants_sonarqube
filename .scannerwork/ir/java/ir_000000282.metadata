@@ -1,5 +1,5 @@
-com.example.JEE.controllers.TableController#getTableById(I)Ljava/util/Optional;
+com.example.JEE.controllers.RestaurantController#deleteRestaurant(I)V
 false
-80ce2dad36f2058e7dbef84ff3493f37
+ebcf1b1a3d5c92e992eaa7a6a22e60b1
 ==
-getTableById com.example.JEE.services.TableService#getTableById(I)Ljava/util/Optional;
+deleteRestaurant com.example.JEE.services.RestaurantService#deleteRestaurant(I)V

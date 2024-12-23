@@ -1,5 +1,9 @@
-com.example.JEE.controllers.TableController#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;
+com.example.JEE.controllers.RestaurantController#updateRestaurant(ILjava/lang/String;Ljava/lang/String;LMultipartFile;)Lcom/example/JEE/entities/Restaurant;
 false
-d67157080b2f212ffca525c59f30de84
+6035c2750c4517e59185047617f01145
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
 ==
-createTable com.example.JEE.services.TableService#createTable(Lcom/example/JEE/entities/Tables;)Lcom/example/JEE/entities/Tables;
+!unknownMethod! !unknownMethod!
+createRestaurant com.example.JEE.services.RestaurantService#createRestaurant(Lcom/example/JEE/entities/Restaurant;)Lcom/example/JEE/entities/Restaurant;
+getRestaurantById com.example.JEE.services.RestaurantService#getRestaurantById(I)Ljava/util/Optional;
+uploadImageToFileSystem com.example.JEE.services.StorageService#uploadImageToFileSystem(LMultipartFile;)Ljava/lang/String;

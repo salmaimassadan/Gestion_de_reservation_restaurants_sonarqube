@@ -1,21 +1,21 @@
 
-Jcom.example.JEE.controllers.TableController#getAllTables()Ljava/util/List;l
-bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/TableController.java ($"1*š
-1 (Ÿ
-œ
- (+
-%0%com.example.JEE.services.TableService"__id*]
+Tcom.example.JEE.controllers.RestaurantController#getAllRestaurants()Ljava/util/List;q
+gC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/RestaurantController.java( ((-"1*½
+1) )( ®
+«
+) )( 0
+%0*com.example.JEE.services.RestaurantService"__id*g
 
-__unknown_file (A*?-
-+com.example.JEE.controllers.TableController"
-tableServiceÄÁ
- (*
-%1java.util.List"Dcom.example.JEE.services.TableService#getAllTables()Ljava/util/List;*I
+__unknown_file (K*I2
+0com.example.JEE.controllers.RestaurantController"
+restaurantServiceØÕ
+) )(4
+%1java.util.List"Ncom.example.JEE.services.RestaurantService#getAllRestaurants()Ljava/util/List;*N
 
-__unknown_file (-
-+
-%0%com.example.JEE.services.TableService2getAllTables()""
- (+
+__unknown_file (2
+0
+%0*com.example.JEE.services.RestaurantService2getAllRestaurants()""
+) )(5
 
-%1java.util.ListB/-
-+com.example.JEE.controllers.TableControllerH
+%1java.util.ListB42
+0com.example.JEE.controllers.RestaurantControllerH

@@ -1,7 +1,3 @@
-com.example.JEE.services.StorageService#uploadImageToFileSystem(LMultipartFile;)Ljava/lang/String;
+com.example.JEE.entities.Tables#<init>()V
 false
-7a837b72468ce181e4ae403d5356b708
-java.io.File#<init>(Ljava/lang/String;)V
-java.io.File#instance-init#
-==
-!unknownMethod! !unknownMethod!
+a5c12c6ec8ab553a35364231b56b0f46

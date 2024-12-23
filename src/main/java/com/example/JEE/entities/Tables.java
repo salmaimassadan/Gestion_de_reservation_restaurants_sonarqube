@@ -23,5 +23,11 @@ public class Tables {
         this.isAvailable = false;
     }
 
+    public void setName(String testTable) {
+    }
+
+
+
+
     // Getters and setters
 }

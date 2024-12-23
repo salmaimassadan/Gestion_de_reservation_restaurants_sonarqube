@@ -1,5 +1,3 @@
-com.example.JEE.controllers.TableController#getAllTables()Ljava/util/List;
+com.example.JEE.controllers.TableController#instance-init#
 false
-235e24d49e71df8d00b8a43d2a882eab
-==
-getAllTables com.example.JEE.services.TableService#getAllTables()Ljava/util/List;
+8c8bc9efc0c2caa765d36b5c906352e6

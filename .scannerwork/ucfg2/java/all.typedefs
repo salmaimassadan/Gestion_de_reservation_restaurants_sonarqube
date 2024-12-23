@@ -63,9 +63,13 @@ $com.example.JEE.entities.Reservationjava.lang.Object¢
 deleteReview(I)7com.example.JEE.services.ReviewService#deleteReview(I)VY
 getAllReviews()Fcom.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;_
 getReviewById(I)Kcom.example.JEE.services.ReviewService#getReviewById(I)Ljava/util/Optional;P
--com.example.JEE.repositories.ReviewRepositoryJpaRepositoryjava.lang.Objectj
+-com.example.JEE.repositories.ReviewRepositoryJpaRepositoryjava.lang.Object‰
 com.example.JEE.entities.Reviewjava.lang.Object5
-<init>())com.example.JEE.entities.Review#<init>()V0
+<init>())com.example.JEE.entities.Review#<init>()VN
+getContent()>com.example.JEE.entities.Review#getContent()Ljava/lang/String;3
+getId()(com.example.JEE.entities.Review#getId()Ia
+setContent(Ljava/lang/String;)?com.example.JEE.entities.Review#setContent(Ljava/lang/String;)V5
+setId(I))com.example.JEE.entities.Review#setId(I)V0
 java.lang.constant.Constablejava.lang.Object(
 java.lang.Comparablejava.lang.Object(
 java.io.Serializablejava.lang.Object£

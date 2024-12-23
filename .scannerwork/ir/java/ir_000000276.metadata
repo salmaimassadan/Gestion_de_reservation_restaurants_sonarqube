@@ -1,5 +1,3 @@
-com.example.JEE.controllers.RestaurantController#getAllRestaurants()Ljava/util/List;
+com.example.JEE.controllers.RestaurantController#instance-init#
 false
-e75452efb538440c15f7062389ed89db
-==
-getAllRestaurants com.example.JEE.services.RestaurantService#getAllRestaurants()Ljava/util/List;
+2256395ecc3e96b8bfe4e911c29066d3

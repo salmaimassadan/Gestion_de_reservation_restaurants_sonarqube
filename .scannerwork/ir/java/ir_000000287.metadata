@@ -1,6 +1,5 @@
-com.example.JEE.controllers.ReviewController#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;
+com.example.JEE.controllers.TableController#getAllTables()Ljava/util/List;
 false
-9e85712c799da918bce6a294240bda5f
+235e24d49e71df8d00b8a43d2a882eab
 ==
-!unknownMethod! !unknownMethod!
-createReview com.example.JEE.services.ReviewService#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;
+getAllTables com.example.JEE.services.TableService#getAllTables()Ljava/util/List;

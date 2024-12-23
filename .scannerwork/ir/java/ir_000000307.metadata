@@ -1,5 +1,5 @@
-com.example.JEE.services.ReservationService#getAllReservations()Ljava/util/List;
+com.example.JEE.services.TableService#deleteTable(I)V
 false
-a81fa97c49a124041ee233b176d584a0
+a394be01661bccc2cc2977fe5fa71622
 ==
 !unknownMethod! !unknownMethod!

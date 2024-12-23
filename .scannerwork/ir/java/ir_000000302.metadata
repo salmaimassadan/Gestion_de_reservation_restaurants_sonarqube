@@ -1,5 +1,3 @@
-com.example.JEE.services.TableService#getAllTables()Ljava/util/List;
+com.example.JEE.services.TableService#instance-init#
 false
-8bf374678cdd97c421e510e536eebdeb
-==
-!unknownMethod! !unknownMethod!
+62ca641d90eba6175d4ba1c5ab8bda3b

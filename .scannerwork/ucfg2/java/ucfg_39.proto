@@ -1,17 +1,17 @@
 
-Ucom.example.JEE.services.ReservationService#getReservationById(I)Ljava/util/Optional;l
-bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/ReservationService.java,! ,(3"1*Ù
-1- -($µ
-²
-- -($8
-%02com.example.JEE.repositories.ReservationRepository"__id*f
+Icom.example.JEE.services.TableService#getTableById(I)Ljava/util/Optional;f
+\C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/TableService.java (("1*Ç
+1 (£
+ 
+ (2
+%0,com.example.JEE.repositories.TableRepository"__id*Z
 
-__unknown_file (J*H-
-+com.example.JEE.services.ReservationService"
-reservationRepository"
-- -(2
+__unknown_file (>*<'
+%com.example.JEE.services.TableService"
+tableRepository"
+ (,
 "": 
 
 __unknown_file (
-""B/-
-+com.example.JEE.services.ReservationServiceH
+""B)'
+%com.example.JEE.services.TableServiceH

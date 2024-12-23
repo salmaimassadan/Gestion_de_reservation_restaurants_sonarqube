@@ -406,8 +406,21 @@ ofNullableEjava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional
 orElse?java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;*Z
 	orElseGetMjava.util.Optional#orElseGet(Ljava/util/function/Supplier;)Ljava/lang/Object;*A
 orElseThrow2java.util.Optional#orElseThrow()Ljava/lang/Object;*^
-orElseThrowOjava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;:java.util.Listjava.util.Collectionjava.lang.Object>java.util.Collectionjava.lang.Iterablejava.lang.Object(java.lang.Iterablejava.lang.ObjectvoidE-com.example.JEE.repositories.ReviewRepositoryjava.lang.Object java.lang.Objectjcom.example.JEE.entities.Reviewjava.lang.Object*3
-<init>)com.example.JEE.entities.Review#<init>()Vjava.lang.Object∫com.example.JEE.entities.Statusjava.lang.Enum*F
+orElseThrowOjava.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;:java.util.Listjava.util.Collectionjava.lang.Object>java.util.Collectionjava.lang.Iterablejava.lang.Object(java.lang.Iterablejava.lang.ObjectvoidE-com.example.JEE.repositories.ReviewRepositoryjava.lang.Object java.lang.ObjectÓcom.example.JEE.entities.Reviewjava.lang.Object*3
+<init>)com.example.JEE.entities.Review#<init>()V*L
+
+getContent>com.example.JEE.entities.Review#getContent()Ljava/lang/String;*1
+getId(com.example.JEE.entities.Review#getId()I*M
+
+setContent?com.example.JEE.entities.Review#setContent(Ljava/lang/String;)V*2
+setId)com.example.JEE.entities.Review#setId(I)Vjava.lang.Objectintjava.lang.Integeríjava.lang.Integerjava.lang.Numberjava.lang.Object*%
+<init>java.lang.Integer#<init>()V*D
+parseInt8java.lang.Integer#parseInt(Ljava/lang/CharSequence;III)I*;
+parseInt/java.lang.Integer#parseInt(Ljava/lang/String;)I*<
+parseInt0java.lang.Integer#parseInt(Ljava/lang/String;I)I*T
+parseUnsignedInt@java.lang.Integer#parseUnsignedInt(Ljava/lang/CharSequence;III)I*K
+parseUnsignedInt7java.lang.Integer#parseUnsignedInt(Ljava/lang/String;)I*L
+parseUnsignedInt8java.lang.Integer#parseUnsignedInt(Ljava/lang/String;I)I&java.lang.Numberjava.lang.Objectvoid©java.lang.Stringjava.io.Serializablejava.lang.Comparablejava.lang.CharSequencejava.lang.constant.Constablejava.lang.constant.ConstantDescjava.lang.Object*java.io.Serializablejava.lang.Object*java.lang.Comparablejava.lang.Object,java.lang.CharSequencejava.lang.Object2java.lang.constant.Constablejava.lang.Object5java.lang.constant.ConstantDescjava.lang.Object∫com.example.JEE.entities.Statusjava.lang.Enum*F
 <init><com.example.JEE.entities.Status#<init>(Ljava/lang/String;I)V*g
 valueOf\com.example.JEE.entities.Status#valueOf(Ljava/lang/String;)Lcom/example/JEE/entities/Status;*T
 valuesJcom.example.JEE.entities.Status#values()[Lcom/example/JEE/entities/Status;njava.lang.Enumjava.lang.constant.Constablejava.lang.Comparablejava.io.Serializablejava.lang.Object2java.lang.constant.Constablejava.lang.Objectjava.lang.Object*java.lang.Comparablejava.lang.Object*java.io.Serializablejava.lang.Objectjava.lang.ObjectJ2com.example.JEE.repositories.ReservationRepositoryjava.lang.Object java.lang.ObjectF.com.example.JEE.repositories.StorageRepositoryjava.lang.Object C+com.example.JEE.repositories.UserRepositoryjava.lang.Object java.lang.Objectjava.lang.Objectp"com.example.JEE.entities.ImageDatajava.lang.Object*6
@@ -473,8 +486,14 @@ ofNullableEjava.util.Optional#ofNullable(Ljava/lang/Object;)Ljava/util/Optional
 <init>6com.example.JEE.controllers.ReviewController#<init>()V*ç
 createReview}com.example.JEE.controllers.ReviewController#createReview(Lcom/example/JEE/entities/Review;)Lcom/example/JEE/entities/Review;*M
 deleteReview=com.example.JEE.controllers.ReviewController#deleteReview(I)V*]
-getAllReviewsLcom.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;jcom.example.JEE.entities.Reviewjava.lang.Object*3
-<init>)com.example.JEE.entities.Review#<init>()V	!Unknown! intjava.lang.Integeríjava.lang.Integerjava.lang.Numberjava.lang.Object*%
+getAllReviewsLcom.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;Ócom.example.JEE.entities.Reviewjava.lang.Object*3
+<init>)com.example.JEE.entities.Review#<init>()V*L
+
+getContent>com.example.JEE.entities.Review#getContent()Ljava/lang/String;*1
+getId(com.example.JEE.entities.Review#getId()I*M
+
+setContent?com.example.JEE.entities.Review#setContent(Ljava/lang/String;)V*2
+setId)com.example.JEE.entities.Review#setId(I)V	!Unknown! intjava.lang.Integeríjava.lang.Integerjava.lang.Numberjava.lang.Object*%
 <init>java.lang.Integer#<init>()V*D
 parseInt8java.lang.Integer#parseInt(Ljava/lang/CharSequence;III)I*;
 parseInt/java.lang.Integer#parseInt(Ljava/lang/String;)I*<

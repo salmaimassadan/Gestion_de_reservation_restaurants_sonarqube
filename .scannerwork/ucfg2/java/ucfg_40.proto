@@ -1,14 +1,14 @@
 
-Pcom.example.JEE.services.ReservationService#getAllReservations()Ljava/util/List;l
-bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/ReservationService.java0 0(/"1*Ù
-11 1($µ
-²
-1 1($8
-%02com.example.JEE.repositories.ReservationRepository"__id*f
+Dcom.example.JEE.services.TableService#getAllTables()Ljava/util/List;f
+\C:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/services/TableService.java ($"1*Ç
+1 (£
+ 
+ (2
+%0,com.example.JEE.repositories.TableRepository"__id*Z
 
-__unknown_file (J*H-
-+com.example.JEE.services.ReservationService"
-reservationRepository"
-1 1(/
-""B/-
-+com.example.JEE.services.ReservationServiceH
+__unknown_file (>*<'
+%com.example.JEE.services.TableService"
+tableRepository"
+ ()
+""B)'
+%com.example.JEE.services.TableServiceH

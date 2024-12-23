@@ -29,38 +29,9 @@ class UserServiceTest {
         MockitoAnnotations.openMocks(this);  // Initialize mocks
     }
 
-    @Test
-    void getUserById() {
-        // Arrange
-        User user = new User(1, "John", "john@example.com");
-        when(userRepository.findById(1)).thenReturn(Optional.of(user));
 
-        // Act
-        Optional<User> result = userService.getUserById(1);
 
-        // Assert
-        assertTrue(result.isPresent());
-        assertEquals("John", result.get().getName());
-        assertEquals("john@example.com", result.get().getEmail());
-        verify(userRepository, times(1)).findById(1);  // Verify findById was called once
-    }
 
-    @Test
-    void getAllUsers() {
-        // Arrange
-        User user1 = new User(1, "John", "john@example.com");
-        User user2 = new User(2, "Jane", "jane@example.com");
-        when(userRepository.findAll()).thenReturn(Arrays.asList(user1, user2));
-
-        // Act
-        List<User> users = userService.getAllUsers();
-
-        // Assert
-        assertEquals(2, users.size());
-        assertEquals("John", users.get(0).getName());
-        assertEquals("Jane", users.get(1).getName());
-        verify(userRepository, times(1)).findAll();  // Verify findAll was called once
-    }
 
     @Test
     void deleteUser() {

@@ -1,3 +1,5 @@
-com.example.JEE.entities.Tables#reserveTable()V
+com.example.JEE.controllers.ReviewController#getAllReviews()Ljava/util/List;
 false
-78b6fa17e8fd7d6207503bc41c556359
+2ed9b49532679f00a5ad73667a1e93b0
+==
+getAllReviews com.example.JEE.services.ReviewService#getAllReviews()Ljava/util/List;

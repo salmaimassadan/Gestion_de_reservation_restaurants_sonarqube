@@ -1,3 +1,5 @@
-com.example.JEE.entities.Restaurant#<init>(ILjava/lang/String;Ljava/lang/String;)V
+com.example.JEE.services.RestaurantService#deleteRestaurant(I)V
 false
-d33e05b538d710aa8e9476dd61670651
+963231279d7d0e2310ff93460049c234
+==
+!unknownMethod! !unknownMethod!

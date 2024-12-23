@@ -1,16 +1,15 @@
 
-Bcom.example.JEE.entities.Restaurant#getAddress()Ljava/lang/String;d
-ZC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/entities/Restaurant.java! !("1*≤
-1" "(}
-{
-" "(
-%0java.lang.String"__id*Q
-
-__unknown_file (5*3%
-#com.example.JEE.entities.Restaurant"
-
-location"$
-" "(
-
-%0java.lang.StringB'%
-#com.example.JEE.entities.RestaurantH
+>com.example.JEE.controllers.ImageController#%field_initializer
+__unknown_file ("1*ñ
+1 (Ç
+ˇ
+l
+bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/ImageController.java (c>-
++com.example.JEE.controllers.ImageController"
+FOLDER_PATH"__id*I
+ (=;
+9C:/5iir/ProjectJEE/restaurant-frontend/src/assets/images/"Å
+j
+bC:/Users/pc/Desktop/backendJEE-main/src/main/java/com/example/JEE/controllers/ImageController.java '(
+implicit returnB/-
++com.example.JEE.controllers.ImageController

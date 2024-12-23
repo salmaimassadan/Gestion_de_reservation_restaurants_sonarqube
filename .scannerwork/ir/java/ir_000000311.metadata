@@ -1,5 +1,5 @@
-com.example.JEE.services.RestaurantService#createRestaurant(Lcom/example/JEE/entities/Restaurant;)Lcom/example/JEE/entities/Restaurant;
+com.example.JEE.services.ReservationService#getAllReservations()Ljava/util/List;
 false
-8b901fabff9d07a4220375a61ffd533b
+a81fa97c49a124041ee233b176d584a0
 ==
 !unknownMethod! !unknownMethod!
